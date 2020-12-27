@@ -7,8 +7,10 @@ You can use this colab notebook to follow along the data cleaning tutorial. Ther
 
 Data Cleaning is the process of identifying missing, incorrect, duplicate, or corrupt data. Data Scientist clean data for a more accurate, easier to work with dataframe before implementing data exploration, machine learning models, etc. 
 
-## Data Exploration (TBD)
-
 ## Data Visualization (TBD)
 
+## Data Exploration (TBD)
+
 ## Machine Learning (TBD)
+### Machine Learning Basics
+### Deep Learning 
