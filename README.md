@@ -12,6 +12,8 @@ Data Cleaning is the process of identifying missing, incorrect, duplicate, or co
 ## Data Visualization and Data Exploration
 https://colab.research.google.com/drive/1vLZ42gT7uf-urFBNcqDNgcYL5sAeSfeP?usp=sharing
 
+**Notes:**https://docs.google.com/presentation/d/1WX60nzLXAVKZVsnen-19u8BVlYHEc5Dwh8Nqa0zHM2U/edit?usp=sharing
+
 You can use this colab notebook to follow along the data exploration tutorial. There are a few ways to handle data exploration, unfortunately we cover the basics, not all of them. Please use the resources in the notebook to learn more about data exploration and reach out for more questions. 
 
 Data Exploration is the process of visualizing and analyzing data for more information. This allows data scientists to see which features directly impact the target variable and give more intuition of what the data is saying. 
