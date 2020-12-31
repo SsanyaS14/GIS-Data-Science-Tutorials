@@ -7,9 +7,13 @@ You can use this colab notebook to follow along the data cleaning tutorial. Ther
 
 Data Cleaning is the process of identifying missing, incorrect, duplicate, or corrupt data. Data Scientist clean data for a more accurate, easier to work with dataframe before implementing data exploration, machine learning models, etc. 
 
-## Data Visualization (TBD)
+## Data Visualization and Data Exploration
+https://colab.research.google.com/drive/1vLZ42gT7uf-urFBNcqDNgcYL5sAeSfeP?usp=sharing
 
-## Data Exploration (TBD)
+You can use this colab notebook to follow along the data exploration tutorial. There are a few ways to handle data exploration, unfortunately we cover the basics, not all of them. Please use the resources in the notebook to learn more about data exploration and reach out for more questions. 
+
+Data Exploration is the process of visualizing and analyzing data for more information. This allows data scientists to see which features directly impact the target variable and give more intuition of what the data is saying. 
+
 
 ## Machine Learning (TBD)
 ### Machine Learning Basics
