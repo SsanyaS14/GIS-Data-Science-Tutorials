@@ -1,5 +1,5 @@
 # GIS Data-Science Tutorials
-This is used for Gamma Iota Sigma Members interested in Data Science. Currently, we are working on the data science tutorials for you to work on. We have uploaded a couple of notebooks for use. If you would like to get a head start, go ahead. However, we recommend you read over the notebook in advance and attend our tutorials where we will have notes and a presentation. This will make your practice problems easier. You may download a ZIP file of this repository, which is what we recommend you do, OR you may use the google colab, by making a coopy from that link. 
+This is used for Gamma Iota Sigma Members interested in Data Science. Currently, we are working on the data science tutorials for you to work on. We have uploaded a couple of notebooks for use. If you would like to get a head start, go ahead. However, we recommend you read over the notebook in advance and attend our tutorials where we will have notes and a presentation. This will make your practice problems easier. You may download a ZIP file of this repository, which is what we recommend you do, OR you may use the google colab, by making a copy from that link. 
 ## Data Cleaning
 https://colab.research.google.com/drive/1XJWwAbxTaPNT8NgrVKuYxeV1jRcJy9n-?usp=sharing
 
